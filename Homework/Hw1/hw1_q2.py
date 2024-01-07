@@ -2,11 +2,7 @@
     # 1 BIRTH / 7 SECONDS
     # 1 DEATH / 15 SECONDS
     # 1 IMMIGRANT / 42 SECONDS
-    # 1 EMIGRANT / 1.25 MINUTES 
-        # 1 MINUTE = 60 SECONDS 
-        # 0.25 MINUTE = 60/4 = 15 SECONDS
-            # 60 + 15 = 75
-            # 1 EMIGRANT / 75 SECONDS
+    # 1 EMIGRANT / 1.25 MINUTES (75 SECONDS)
 
 # Population:
     # increases with births and immigrants
